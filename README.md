@@ -9,3 +9,5 @@ Made second input the exponenet to the first input
 Added text to display "first input to the power of the second input"
 Update 3
 Added flow chart
+
+Ready to be graded
